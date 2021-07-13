@@ -7,3 +7,6 @@ by Keith Galli
 
 original sourcecode: https://github.com/keithgalli/generate-analytics-report
 you can get original files in zip folder there
+
+
+I modified helper.py from original to get dynamic data
