@@ -8,8 +8,8 @@ by Keith Galli
 original sourcecode: https://github.com/keithgalli/generate-analytics-report
 you can get original files in zip folder there
 
-use newreport3.py as your master template as the basis for your future project or edit. (this is what shown in the video with errors fixed)
-
+newreport5.1.py is modification with error fixed (date, file location) (this is what shown in the video with errors fixed)
+However when you redo it file location will change. so rewatch the original video in the place. 
 
 * I modified helper.py from original to get dynamic data
 ** I fixed date modification error
